@@ -1,0 +1,44 @@
+.prev:hover,
+.next:hover 
+{
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+body 
+{
+    text-align: center;
+    background-color :lightgreen;
+    margin: 10px;
+}
+
+	.btn
+	{
+		border: none;
+		background-color:rgb(144, 238, 144);
+		padding: 14px 28px;
+		font-size: 40px;
+		cursor: pointer;
+		display: inline-block;
+	}
+	
+    .btn:hover {background: white;}
+   
+
+.logo
+    {   
+        position: absolute; 
+        top: 1em; 
+        left: 0; 
+        width: 8%; 
+    }
+
+    .description {color:rgb(0, 0, 0);}
+	.resources {color:rgb(0, 0, 0);}
+    .playgame {color:rgb(0, 0, 0);}
+
+p
+{
+    font-size: 26px;
+}
+
+
